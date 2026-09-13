@@ -1,11 +1,10 @@
+import Navbar from '@/components/ui/navbar'
 import React from 'react'
-import Navbar  from "@/components/ui/navbar";
+
 export default function page() {
   return (
     <>
-    <div>
-      <Navbar />
-    </div>
+    <Navbar />
     </>
   )
 }
