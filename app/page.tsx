@@ -1,15 +1,13 @@
-import Navbar  from "@/components/ui/navbar";
+import Navbar from '@/components/ui/navbar'
+import React from 'react'
+
 export default function page() {
   return (
-    <>
-<<<<<<< HEAD
-    
-=======
-   
->>>>>>> 6da10a6bb952b15909f84cdf342e24027a020ecc
     <div>
+      <html>
+        <meta name="google-site-verification" content="bfAMrurrc4BbKdffU7ZZIJCxWFfRa_BowK1dwITUgKg" />
+      </html>
       <Navbar />
     </div>
-    </>
   )
 }
